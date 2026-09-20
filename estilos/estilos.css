@@ -1,6 +1,10 @@
 body{
     background-color: #22223b;
 }
+span{
+    background-color: #000814;
+    color: #c9ada7;
+}
 #Titulo{
     text-align: center;
     color: #000814;
